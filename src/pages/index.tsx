@@ -1,3 +1,4 @@
+import About from "@/components/About";
 import Banner from "@/components/Banner";
 import LeftSide from "@/components/LeftSide";
 import Navbar from "@/components/Navbar";
@@ -21,6 +22,13 @@ export default function Home() {
             </motion.div>
             <div className="h-[88vh] w-full mx-auto p-4">
               <Banner />
+              <About />
+
+              {/* Experience */}
+              {/* Projects */}
+              {/* Archive */}
+              {/* Contact */}
+              {/* Footer */}
             </div>
             <motion.div
               className="hidden xl:inline-flex w-32 h-full fixed right-0 bottom-0"

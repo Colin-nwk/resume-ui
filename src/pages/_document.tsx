@@ -7,7 +7,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>collins nwoko</title>
+      <title>collins nwoko</title>
         <meta
           property="og:title"
           content="collins nwoko, my portfolio website"
